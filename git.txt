@@ -1,2 +1,2 @@
 git 1918!
-creating a new branch is quick&simple!
+create a new branch is quick and simple!
