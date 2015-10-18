@@ -3,3 +3,5 @@ create a new branch is quick &and simple!
 add msg:git branch add msg!add msg2
 20:45 add!
 dev2
+dev2
+git stash test!
