@@ -1,3 +1,3 @@
 git 1918!
-create a new branch is quick & simple!
+create a new branch is quick &and simple!
 add msg:git branch add msg!add msg2
