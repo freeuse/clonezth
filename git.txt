@@ -2,3 +2,4 @@ git 1918!
 create a new branch is quick &and simple!
 add msg:git branch add msg!add msg2
 dev2
+stash test 2124
