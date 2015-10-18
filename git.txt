@@ -1,3 +1,2 @@
 git 1918!
 create a new branch is quick and simple!
-git conflict solution!
